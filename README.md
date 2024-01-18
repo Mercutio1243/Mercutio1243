@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mercutio1243
-- 👀 I’m interested in playing with flutter 
-- 🌱 I’m currently learning flutter and coding in general
+- 👋 Hi, I’m @Mercutio1243 from Germany
+- 👀 I’m interested in programming with flutter 
+- 🌱 I’m currently setting up a small chess app with flutter
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: TBD
 
